@@ -1,6 +1,5 @@
 ### Hi there, I'm Kadir  👋
-
-## I love software and learning something new
+ I love software and learning something new
 
 
 
