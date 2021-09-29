@@ -26,7 +26,8 @@
   <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 
    </p>
-  
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirseckin&show_icons=true&locale=en" alt="kadirseckin" /></p>
 
 
 
