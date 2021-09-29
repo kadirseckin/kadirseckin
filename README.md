@@ -5,7 +5,6 @@
 I developed applications with PHP, ASP .NET MVC Framework, Kotlin, Java and Flutter. I am currently interested in PHP and web development.
 I love software and learning something new.
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
