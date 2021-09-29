@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kadir</h1>
 <h3 align="center">Junior Software Developer</h3>
 
+## About me
 I developed applications with PHP, ASP .NET MVC Framework, Kotlin, Java and Flutter. I am currently interested in PHP and web development.
+I love software and learning something new.
 
 ---
 
