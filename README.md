@@ -32,7 +32,6 @@ I love software and learning something new.
 
    </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirseckin&show_icons=true&locale=en" alt="kadirseckin" /></p>
 
 
 
