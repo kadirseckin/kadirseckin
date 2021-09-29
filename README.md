@@ -1,6 +1,6 @@
 ### Hi there, I'm Kadir  👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I love software and learning something new
 
 
 
