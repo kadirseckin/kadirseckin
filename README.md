@@ -16,9 +16,7 @@ I am working as a software developer. I love software and learning something new
 <a href="https://www.hackerrank.com/profile/seckinkadir" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kadirseckin" height="30" width="40" />
 </a>
-<a href="mailto:seckinkadir@outlook.com" target="blank">
-  <img align="center" src="[https://cdn-icons-png.flaticon.com/512/561/561127.png](https://cdn-icons-png.flaticon.com/512/561/561127.png)" alt="email" height="30" width="40" />
-</a>
+
 </p>
 
 
