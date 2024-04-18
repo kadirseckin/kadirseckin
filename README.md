@@ -5,7 +5,7 @@
 I am working as a software developer. I love software and learning something new. I am involved in developing many new features, fixing bugs and improving performance. While doing this, I used many different technologies such as PHP, Go, MySQL, Elasticsearch, Redis, RabbitMQ and I develop my codes according to TDD. Apart from this, I use tools such as JIRA, Docker, Kubernetes, Jenkins, New Relic, Metabase, Graylog and Gitlab.
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kadirseckin" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadirseckin" height="30" width="40" />
@@ -16,8 +16,14 @@ I am working as a software developer. I love software and learning something new
 <a href="https://www.hackerrank.com/profile/seckinkadir" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kadirseckin" height="30" width="40" />
 </a>
-
+<a href="mailto:seckinkadir@outlook.com" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="email" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/20543757/kadir-seckin" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kadirseckin" height="30" width="40" />
+</a>
 </p>
+
 
 
 
