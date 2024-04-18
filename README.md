@@ -7,16 +7,25 @@ I am working as a software developer. I love software and learning something new
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kadirseckin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadirseckin" height="30" width="40" /></a>
-<a href="https://kadirseckin.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kadirseckin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/seckinkadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kdogusseckin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kadirseckin" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadirseckin" height="30" width="40" />
+</a>
+<a href="https://kadirseckin.medium.com/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kadirseckin" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/profile/seckinkadir" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kadirseckin" height="30" width="40" />
+</a>
+<a href="mailto:seckinkadir@outlook.com target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="email" height="30" width="40" />
+</a>
 </p>
 
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
 
+<p align="left"> 
 <a href="https://www.php.net" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </a>
@@ -38,8 +47,6 @@ I am working as a software developer. I love software and learning something new
 <a href="https://laravel.com/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
 </a>
-
-
  </p>
 
 
